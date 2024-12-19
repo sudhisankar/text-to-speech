@@ -38,6 +38,11 @@ uploaded = files.upload()
 - Ensure the PDF file is named `Article.pdf`.
 
 ---
+Accessung Colab:
+```
+https://colab.research.google.com/drive/1kR6gpb5m_eMufF1oYz715z61XqLv20XH?usp=drive_link
+```
+
 
 ## Contribution
 Fork and submit pull requests for improvements or fixes.
